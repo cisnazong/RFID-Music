@@ -1,3 +1,8 @@
+# RFID-Music OSC
+Music play with RFID control using OSC protocols
+
+Hardware: Raspberry pi 4B + Arduino + MFRC522
+
 # mfrc522
 
 A python library to read/write RFID tags via the budget MFRC522 RFID module.
